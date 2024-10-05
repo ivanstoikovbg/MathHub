@@ -1,0 +1,7 @@
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\KvadratnoUravnenie\bin\Debug\KvadratnoUravnenie.exe.config
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\KvadratnoUravnenie\bin\Debug\KvadratnoUravnenie.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\KvadratnoUravnenie\bin\Debug\KvadratnoUravnenie.pdb
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.csproj.AssemblyReference.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.csproj.CoreCompileInputs.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.pdb

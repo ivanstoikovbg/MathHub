@@ -1,0 +1,7 @@
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\TriangleCalculator\bin\Debug\TriangleCalculator.exe.config
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\TriangleCalculator\bin\Debug\TriangleCalculator.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\TriangleCalculator\bin\Debug\TriangleCalculator.pdb
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.AssemblyReference.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\TriangleCalculator\obj\Debug\TriangleCalculator.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\TriangleCalculator\obj\Debug\TriangleCalculator.pdb
